@@ -1,28 +1,585 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYbFVGZ29PcURsVnFsWkZEM0pzMFlB@shadoct.kingarvan.eu.org:8080#%F0%9F%87%B3%F0%9F%87%B1NL%20%7C%20ss%20%7C%20%40V2rayCollectorDonate%20%7C%209
-vless://--Polproxy--Polproxy--@check-host.net:2095/?type=ws&encryption=none&host=moein.savarkaraan.ir&path=%2FTelegram%3A%40POLPROXY-Telegram%3A%40POLPROXY-Telegram%3A%40POLPROXY-Telegram%3A%40POLPROXY#%F0%9F%87%BA%F0%9F%87%B8US%20%7C%20vless%20%7C%20%40polproxy%20%7C%201
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.samanehha.co:443#%F0%9F%87%AC%F0%9F%87%A7GB%20%7C%20ss%20%7C%20%40proxy_mtm%20%7C%2019
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYbFVGZ29PcURsVnFsWkZEM0pzMFlB@172.233.51.96:8080#%F0%9F%94%92%20SS-TCP-NA%20%F0%9F%87%B3%F0%9F%87%B1%20NL-172.233.51.96%3A8080%20%F0%9F%93%A1%20PING-127.12-MS
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplemVzQlhlc2YzUktCQ3AxdnFLdUl4@172.233.57.5:8080#%F0%9F%94%92%20SS-TCP-NA%20%F0%9F%87%B3%F0%9F%87%B1%20NL-172.233.57.5%3A8080%20%F0%9F%93%A1%20PING-131.95-MS
-ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA@218.237.185.230:54345#%F0%9F%94%92%20SS-TCP-NA%20%F0%9F%87%B0%F0%9F%87%B7%20KR-218.237.185.230%3A54345%20%F0%9F%93%A1%20PING-135.77-MS
-trojan://ce8b8b30ebba45f2a38dd608b85e8628@104.16.159.9:443/?type=ws&host=bangladeshipatri.com&path=6b777a91&security=tls&sni=bangladeshipatri.com#%F0%9F%94%92%20TR-WS-TLS%20%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20NA-104.16.159.9%3A443%20%F0%9F%93%A1%20PING-016.06-MS
-trojan://e8105dfd24414268b6c7652c63731097@198.41.220.83:443/?type=ws&host=jobscareertoday.com&path=6b777a91&security=tls&sni=jobscareertoday.com#%F0%9F%94%92%20TR-WS-TLS%20%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20NA-198.41.220.83%3A443%20%F0%9F%93%A1%20PING-009.79-MS
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#Iran500%2BID%28%40Outline_Vpn%29
-vmess://eyJhZGQiOiJqYW5ldHQuY2xpY2siLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImphbmV0dC5jbGljayIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwibmV0Ijoid3MiLCJwYXRoIjoiL2xpbmt2d3MiLCJwb3J0IjoiNDQzIiwicHMiOiIlRjAlOUYlODclQTglRjAlOUYlODclQTYlMjBDYW5hZGElMjBWbWVzcyUyMEBWMnJheVN0b3JlICg3KSIsInNjeSI6ImF1dG8iLCJzbmkiOiJqYW5ldHQuY2xpY2siLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ==
-vmess://eyJhZGQiOiJzZXJ2ZXIzMy5iZWhlc2h0YmFuZWguY29tIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJzZXJ2ZXIzMy5iZWhlc2h0YmFuZWguY29tIiwiaWQiOiIwODczZmZmYy00MTRmLTQxNDAtYTE1NS02NzIxMjlmZDlhMWQiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6Ijg4ODAiLCJwcyI6IiVGMCU5RiU4NyVBOCVGMCU5RiU4NyVBNiUyMENhbmFkYSUyMFZtZXNzJTIwQFYycmF5U3RvcmUgKDIzKSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==
-vless://416339cf-dadd-4831-987b-80f8434d2ebe@172.67.207.94:443/?type=grpc&encryption=none&security=tls&sni=retf4.livingspringonline.com&alpn=h2&fp=chrome#%F0%9F%94%92%20VL-GRPC-TLS%20%F0%9F%87%BA%F0%9F%87%B8%20US-172.67.207.94%3A443%20%F0%9F%93%A1%20PING-008.47-MS
-vless://416339cf-dadd-4831-987b-80f8434d2ebe@104.21.61.74:443/?type=grpc&encryption=none&security=tls&sni=retf4.livingspringonline.com&alpn=h2&fp=chrome#%F0%9F%94%92%20VL-GRPC-TLS%20%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20NA-104.21.61.74%3A443%20%F0%9F%93%A1%20PING-008.45-MS
-vmess://eyJhZGQiOiIxOTIuMTUxLjI1NS4xOCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiZmhjYW1kMi5tYWMyd2luLnRvcCIsImlkIjoiYjcxNzRiMTktYmM4YS00YzlkLWFjMTUtMzQxYzBlNDNjY2QwIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiI0MTY5OCIsInBzIjoi8J+UkiBWTS1XUy1OQSDwn4e68J+HuCBVUy0xOTIuMTUxLjI1NS4xODo0MTY5OCDwn5OhIFBJTkctMTYzLjA1LU1TIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplemVzQlhlc2YzUktCQ3AxdnFLdUl4@beeconf.xyz:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYbFVGZ29PcURsVnFsWkZEM0pzMFlB@masting.xyz:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%209
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxR2ptSThXUWxGMHRmaERia0xxR2RO@passconf.xyz:8080#%F0%9F%87%BA%F0%9F%87%B2%20United%20States%20160
-vmess://eyJhZGQiOiIxNzIuNjcuMTg0LjExIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJqYW5ldHQuY2xpY2siLCJpZCI6IjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsIm5ldCI6IndzIiwicGF0aCI6Ii9saW5rdndzIiwicG9ydCI6IjQ0MyIsInBzIjoi8J+HuvCfh7IgVW5pdGVkIFN0YXRlcyAyODIiLCJzY3kiOiJhdXRvIiwic25pIjoiamFuZXR0LmNsaWNrIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=
-trojan://dba20dcb635e430fa4d3bfc303a149d2@104.17.61.2:443/?type=ws&host=jobscareerforstudent.com&path=6b777a91&security=tls&sni=jobscareerforstudent.com#%F0%9F%87%BA%F0%9F%87%B2%20United%20States%20338
-vmess://eyJhZGQiOiJhcC1ub3J0aGVhc3QtYW55Y2FzdC5sbmFzcGlyaW5nLmNvbSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoianBsaS5lZGdlLjIzMy50dyIsImlkIjoiYzY0ZmExNDYtZTg1MS00ZGZhLThmOTAtNTlhOGZlZTQ5YmMzIiwibmV0Ijoid3MiLCJwYXRoIjoiL2dlZy80NT9lZFx1MDAzZDIwNDgiLCJwb3J0IjoiODAiLCJwcyI6Itix2KfbjNqv2KfZhiB8IFZNRVNTIHwgQERlYW1OZXRfUHJveHkgfCBDQfCfh6jwn4emIHwgMO+4j+KDozHvuI/ig6MiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
-vless://1d86846c-5a27-43c8-8981-57bb75c82195@172.67.204.84:443/?type=ws&encryption=none&host=tjsre.ttvoffi.info&path=%2Fparadise&security=tls&sni=tjsre.ttvoffi.info&fp=safari#%F0%9F%94%92%20VL-WS-TLS%20%F0%9F%87%BA%F0%9F%87%B8%20US-172.67.204.84%3A443%20%F0%9F%93%A1%20PING-002.51-MS
-vless://39226058-a5b6-4dc7-ac43-797118cef4f6@91.217.119.47:35795/?type=grpc&encryption=none&serviceName=%40game_file2020%40game_file2020%40game_file2020%40game_file2020%40game_file2020%40game_file2020%40game_file2020%40game_file2020%40game_file2020%40game_file2020%40game_file2020%40game_file2020%40game_file2020%40game_file2020%40game_file2020#%F0%9F%87%B9%F0%9F%87%B7TR%20%7C%20VLESS%20%7C%20MTN%20%7C%206
-vless://416339cf-dadd-4831-987b-80f8434d2ebe@104.21.78.150:443/?type=grpc&encryption=none&security=tls&sni=retf4.livingspringonline.com&alpn=h2&fp=chrome#%F0%9F%87%A8%F0%9F%87%A6CA%20%7C%20VLESS%20%7C%20MTN%20%7C%20132
-vless://0b1ddfc4-d343-4b65-fad9-3175d6b8c8ae@104.21.37.251:2053/?type=grpc&encryption=none&security=tls&sni=free.baseri1.xyz&alpn=h2%2Chttp%2F1.1%2Ch3&fp=chrome#%F0%9F%87%A8%F0%9F%87%A6CA%20%7C%20VLESS%20%7C%20MTN%20%7C%20154
-vless://416339cf-dadd-4831-987b-80f8434d2ebe@172.67.213.13:443/?type=grpc&encryption=none&security=tls&sni=retf4.livingspringonline.com&alpn=h3%2Ch2%2Chttp%2F1.1&fp=ios#%F0%9F%87%A8%F0%9F%87%A6CA%20%7C%20VLESS%20%7C%20MTN%20%7C%20166
-vless://0b1ddfc4-d343-4b65-fad9-3175d6b8c8ae@172.67.216.173:2053/?type=grpc&encryption=none&security=tls&sni=free.baseri1.xyz&alpn=h2%2Chttp%2F1.1%2Ch3&fp=chrome#%F0%9F%87%A8%F0%9F%87%A6CA%20%7C%20VLESS%20%7C%20MTN%20%7C%20220
-vless://b39531d2-40c0-4bae-aaee-0cc2ff2e46c0@190.93.246.137:2095/?type=ws&encryption=none&host=%E6%88%91%E7%9A%84%E7%88%B6%E4%BA%B2.gamermecfz.ir&path=%40ExpressVPN_420%20%22%40ExpressVPN_420#%F0%9F%87%A8%F0%9F%87%B7CR%20%7C%20VLESS%20%7C%20MTN%20%7C%20268
-trojan://ce8b8b30ebba45f2a38dd608b85e8628@104.16.159.9:443/?type=ws&host=bangladeshipatri.com&path=6b777a91&security=tls&sni=bangladeshipatri.com#%F0%9F%87%A8%F0%9F%87%A6CA%20%7C%20TROJAN%20%7C%20MTN%20%7C%20244
+{
+  "log": {
+    "disabled": false,
+    "level": "info",
+    "timestamp": true
+  },
+  "dns": {
+    "servers": [
+      {
+        "tag": "google",
+        "address": "tls://8.8.8.8"
+      },
+      {
+        "tag": "local",
+        "address": "223.5.5.5",
+        "detour": "direct"
+      }
+    ],
+    "rules": [
+      {
+        "server": "local",
+        "outbound": "any"
+      }
+    ],
+    "strategy": "ipv4_only"
+  },
+  "inbounds": [
+    {
+      "sniff": true,
+      "type": "mixed",
+      "listen": "127.0.0.1",
+      "listen_port": 1081
+    },
+    {
+      "stack": "system",
+      "auto_route": true,
+      "inet4_address": "172.19.0.1/30",
+      "mtu": 9000,
+      "sniff": true,
+      "strict_route": true,
+      "type": "tun",
+      "platform": {
+        "http_proxy": {
+          "enabled": true,
+          "server": "127.0.0.1",
+          "server_port": 1081
+        }
+      }
+    }
+  ],
+  "outbounds": [
+    {
+      "tag": "select",
+      "type": "selector",
+      "outbounds": [
+        "auto",
+        "🇳🇱NL | ss | @V2rayCollectorDonate | 9",
+        "🇺🇸US | vless | @polproxy | 1",
+        "🇬🇧GB | ss | @proxy_mtm | 19",
+        "🔒 SS-TCP-NA 🇳🇱 NL-172.233.51.96:8080 📡 PING-127.12-MS",
+        "🔒 SS-TCP-NA 🇳🇱 NL-172.233.57.5:8080 📡 PING-131.95-MS",
+        "🔒 SS-TCP-NA 🇰🇷 KR-218.237.185.230:54345 📡 PING-135.77-MS",
+        "🔒 TR-WS-TLS 🏴‍☠️ NA-104.16.159.9:443 📡 PING-016.06-MS",
+        "🔒 TR-WS-TLS 🏴‍☠️ NA-198.41.220.83:443 📡 PING-009.79-MS",
+        "Iran500+ID(@Outline_Vpn)",
+        "%F0%9F%87%A8%F0%9F%87%A6%20Canada%20Vmess%20@V2rayStore (7)",
+        "%F0%9F%87%A8%F0%9F%87%A6%20Canada%20Vmess%20@V2rayStore (23)",
+        "🔒 VL-GRPC-TLS 🇺🇸 US-172.67.207.94:443 📡 PING-008.47-MS",
+        "🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.61.74:443 📡 PING-008.45-MS",
+        "🔒 VM-WS-NA 🇺🇸 US-192.151.255.18:41698 📡 PING-163.05-MS",
+        "🇳🇱 The Netherlands",
+        "🇳🇱 The Netherlands 9",
+        "🇺🇲 United States 160",
+        "🇺🇲 United States 282",
+        "🇺🇲 United States 338",
+        "رایگان | VMESS | @DeamNet_Proxy | CA🇨🇦 | 0️⃣1️⃣",
+        "🔒 VL-WS-TLS 🇺🇸 US-172.67.204.84:443 📡 PING-002.51-MS",
+        "🇹🇷TR | VLESS | MTN | 6",
+        "🇨🇦CA | VLESS | MTN | 132",
+        "🇨🇦CA | VLESS | MTN | 154",
+        "🇨🇦CA | VLESS | MTN | 166",
+        "🇨🇦CA | VLESS | MTN | 220",
+        "🇨🇷CR | VLESS | MTN | 268",
+        "🇨🇦CA | TROJAN | MTN | 244"
+      ]
+    },
+    {
+      "tag": "auto",
+      "type": "urltest",
+      "outbounds": [
+        "🇳🇱NL | ss | @V2rayCollectorDonate | 9",
+        "🇺🇸US | vless | @polproxy | 1",
+        "🇬🇧GB | ss | @proxy_mtm | 19",
+        "🔒 SS-TCP-NA 🇳🇱 NL-172.233.51.96:8080 📡 PING-127.12-MS",
+        "🔒 SS-TCP-NA 🇳🇱 NL-172.233.57.5:8080 📡 PING-131.95-MS",
+        "🔒 SS-TCP-NA 🇰🇷 KR-218.237.185.230:54345 📡 PING-135.77-MS",
+        "🔒 TR-WS-TLS 🏴‍☠️ NA-104.16.159.9:443 📡 PING-016.06-MS",
+        "🔒 TR-WS-TLS 🏴‍☠️ NA-198.41.220.83:443 📡 PING-009.79-MS",
+        "Iran500+ID(@Outline_Vpn)",
+        "%F0%9F%87%A8%F0%9F%87%A6%20Canada%20Vmess%20@V2rayStore (7)",
+        "%F0%9F%87%A8%F0%9F%87%A6%20Canada%20Vmess%20@V2rayStore (23)",
+        "🔒 VL-GRPC-TLS 🇺🇸 US-172.67.207.94:443 📡 PING-008.47-MS",
+        "🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.61.74:443 📡 PING-008.45-MS",
+        "🔒 VM-WS-NA 🇺🇸 US-192.151.255.18:41698 📡 PING-163.05-MS",
+        "🇳🇱 The Netherlands",
+        "🇳🇱 The Netherlands 9",
+        "🇺🇲 United States 160",
+        "🇺🇲 United States 282",
+        "🇺🇲 United States 338",
+        "رایگان | VMESS | @DeamNet_Proxy | CA🇨🇦 | 0️⃣1️⃣",
+        "🔒 VL-WS-TLS 🇺🇸 US-172.67.204.84:443 📡 PING-002.51-MS",
+        "🇹🇷TR | VLESS | MTN | 6",
+        "🇨🇦CA | VLESS | MTN | 132",
+        "🇨🇦CA | VLESS | MTN | 154",
+        "🇨🇦CA | VLESS | MTN | 166",
+        "🇨🇦CA | VLESS | MTN | 220",
+        "🇨🇷CR | VLESS | MTN | 268",
+        "🇨🇦CA | TROJAN | MTN | 244"
+      ],
+      "url": "https://www.gstatic.com/generate_204",
+      "interval": "1m",
+      "tolerance": 50
+    },
+    {
+      "tag": "direct",
+      "type": "direct"
+    },
+    {
+      "tag": "block",
+      "type": "block"
+    },
+    {
+      "tag": "dns-out",
+      "type": "dns"
+    },
+    {
+      "server": "shadoct.kingarvan.eu.org",
+      "server_port": 8080,
+      "password": "XlUFgoOqDlVqlZFD3Js0YA",
+      "method": "chacha20-ietf-poly1305",
+      "tag": "🇳🇱NL | ss | @V2rayCollectorDonate | 9",
+      "type": "shadowsocks"
+    },
+    {
+      "server": "check-host.net",
+      "server_port": 2095,
+      "tls": {
+        "enabled": true,
+        "server_name": "moein.savarkaraan.ir"
+      },
+      "transport": {
+        "path": "/Telegram:@POLPROXY-Telegram:@POLPROXY-Telegram:@POLPROXY-Telegram:@POLPROXY",
+        "type": "ws",
+        "max_early_data": 4096,
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      },
+      "uuid": "--Polproxy--Polproxy--",
+      "tag": "🇺🇸US | vless | @polproxy | 1",
+      "type": "vless"
+    },
+    {
+      "server": "series-a2-me.samanehha.co",
+      "server_port": 443,
+      "password": "Bog0ELmMM9DSxDdQ",
+      "method": "chacha20-ietf-poly1305",
+      "tag": "🇬🇧GB | ss | @proxy_mtm | 19",
+      "type": "shadowsocks"
+    },
+    {
+      "server": "172.233.51.96",
+      "server_port": 8080,
+      "password": "XlUFgoOqDlVqlZFD3Js0YA",
+      "method": "chacha20-ietf-poly1305",
+      "tag": "🔒 SS-TCP-NA 🇳🇱 NL-172.233.51.96:8080 📡 PING-127.12-MS",
+      "type": "shadowsocks"
+    },
+    {
+      "server": "172.233.57.5",
+      "server_port": 8080,
+      "password": "ezesBXesf3RKBCp1vqKuIx",
+      "method": "chacha20-ietf-poly1305",
+      "tag": "🔒 SS-TCP-NA 🇳🇱 NL-172.233.57.5:8080 📡 PING-131.95-MS",
+      "type": "shadowsocks"
+    },
+    {
+      "server": "218.237.185.230",
+      "server_port": 54345,
+      "password": "qwerREWQ@@",
+      "method": "aes-256-cfb",
+      "tag": "🔒 SS-TCP-NA 🇰🇷 KR-218.237.185.230:54345 📡 PING-135.77-MS",
+      "type": "shadowsocks"
+    },
+    {
+      "server": "104.16.159.9",
+      "server_port": 443,
+      "tls": {
+        "enabled": true,
+        "server_name": "bangladeshipatri.com",
+        "insecure": true
+      },
+      "transport": {
+        "path": "6b777a91",
+        "type": "ws",
+        "max_early_data": 4096,
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      },
+      "password": "ce8b8b30ebba45f2a38dd608b85e8628",
+      "tag": "🔒 TR-WS-TLS 🏴‍☠️ NA-104.16.159.9:443 📡 PING-016.06-MS",
+      "type": "trojan"
+    },
+    {
+      "server": "198.41.220.83",
+      "server_port": 443,
+      "tls": {
+        "enabled": true,
+        "server_name": "jobscareertoday.com",
+        "insecure": true
+      },
+      "transport": {
+        "path": "6b777a91",
+        "type": "ws",
+        "max_early_data": 4096,
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      },
+      "password": "e8105dfd24414268b6c7652c63731097",
+      "tag": "🔒 TR-WS-TLS 🏴‍☠️ NA-198.41.220.83:443 📡 PING-009.79-MS",
+      "type": "trojan"
+    },
+    {
+      "server": "series-a1.samanehha.co",
+      "server_port": 443,
+      "password": "W74XFALLLuw6m5IA",
+      "method": "chacha20-ietf-poly1305",
+      "tag": "Iran500+ID(@Outline_Vpn)",
+      "type": "shadowsocks"
+    },
+    {
+      "server": "janett.click",
+      "server_port": 443,
+      "tls": {
+        "enabled": true,
+        "server_name": "janett.click"
+      },
+      "transport": {
+        "path": "/linkvws",
+        "type": "ws",
+        "max_early_data": 2048,
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      },
+      "uuid": "03fcc618-b93d-6796-6aed-8a38c975d581",
+      "packet_encoding": "xudp",
+      "security": "auto",
+      "alter_id": 0,
+      "tag": "%F0%9F%87%A8%F0%9F%87%A6%20Canada%20Vmess%20@V2rayStore (7)",
+      "type": "vmess"
+    },
+    {
+      "server": "server33.beheshtbaneh.com",
+      "server_port": 8880,
+      "transport": {
+        "path": "/",
+        "type": "ws",
+        "max_early_data": 2048,
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      },
+      "uuid": "0873fffc-414f-4140-a155-672129fd9a1d",
+      "packet_encoding": "xudp",
+      "security": "auto",
+      "alter_id": 0,
+      "tag": "%F0%9F%87%A8%F0%9F%87%A6%20Canada%20Vmess%20@V2rayStore (23)",
+      "type": "vmess"
+    },
+    {
+      "server": "172.67.207.94",
+      "server_port": 443,
+      "tls": {
+        "enabled": true,
+        "server_name": "retf4.livingspringonline.com",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "transport": {
+        "type": "grpc"
+      },
+      "uuid": "416339cf-dadd-4831-987b-80f8434d2ebe",
+      "tag": "🔒 VL-GRPC-TLS 🇺🇸 US-172.67.207.94:443 📡 PING-008.47-MS",
+      "type": "vless"
+    },
+    {
+      "server": "104.21.61.74",
+      "server_port": 443,
+      "tls": {
+        "enabled": true,
+        "server_name": "retf4.livingspringonline.com",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "transport": {
+        "type": "grpc"
+      },
+      "uuid": "416339cf-dadd-4831-987b-80f8434d2ebe",
+      "tag": "🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.61.74:443 📡 PING-008.45-MS",
+      "type": "vless"
+    },
+    {
+      "server": "192.151.255.18",
+      "server_port": 41698,
+      "transport": {
+        "path": "/",
+        "type": "ws",
+        "max_early_data": 2048,
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      },
+      "uuid": "b7174b19-bc8a-4c9d-ac15-341c0e43ccd0",
+      "packet_encoding": "xudp",
+      "security": "auto",
+      "alter_id": 0,
+      "tag": "🔒 VM-WS-NA 🇺🇸 US-192.151.255.18:41698 📡 PING-163.05-MS",
+      "type": "vmess"
+    },
+    {
+      "server": "beeconf.xyz",
+      "server_port": 8080,
+      "password": "ezesBXesf3RKBCp1vqKuIx",
+      "method": "chacha20-ietf-poly1305",
+      "tag": "🇳🇱 The Netherlands",
+      "type": "shadowsocks"
+    },
+    {
+      "server": "masting.xyz",
+      "server_port": 8080,
+      "password": "XlUFgoOqDlVqlZFD3Js0YA",
+      "method": "chacha20-ietf-poly1305",
+      "tag": "🇳🇱 The Netherlands 9",
+      "type": "shadowsocks"
+    },
+    {
+      "server": "passconf.xyz",
+      "server_port": 8080,
+      "password": "qGjmI8WQlF0tfhDbkLqGdN",
+      "method": "chacha20-ietf-poly1305",
+      "tag": "🇺🇲 United States 160",
+      "type": "shadowsocks"
+    },
+    {
+      "server": "172.67.184.11",
+      "server_port": 443,
+      "tls": {
+        "enabled": true,
+        "server_name": "janett.click"
+      },
+      "transport": {
+        "path": "/linkvws",
+        "type": "ws",
+        "max_early_data": 2048,
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      },
+      "uuid": "03fcc618-b93d-6796-6aed-8a38c975d581",
+      "packet_encoding": "xudp",
+      "security": "auto",
+      "alter_id": 0,
+      "tag": "🇺🇲 United States 282",
+      "type": "vmess"
+    },
+    {
+      "server": "104.17.61.2",
+      "server_port": 443,
+      "tls": {
+        "enabled": true,
+        "server_name": "jobscareerforstudent.com",
+        "insecure": true
+      },
+      "transport": {
+        "path": "6b777a91",
+        "type": "ws",
+        "max_early_data": 4096,
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      },
+      "password": "dba20dcb635e430fa4d3bfc303a149d2",
+      "tag": "🇺🇲 United States 338",
+      "type": "trojan"
+    },
+    {
+      "server": "ap-northeast-anycast.lnaspiring.com",
+      "server_port": 80,
+      "transport": {
+        "path": "/geg/45?ed=2048",
+        "type": "ws",
+        "max_early_data": 2048,
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      },
+      "uuid": "c64fa146-e851-4dfa-8f90-59a8fee49bc3",
+      "packet_encoding": "xudp",
+      "security": "auto",
+      "alter_id": 0,
+      "tag": "رایگان | VMESS | @DeamNet_Proxy | CA🇨🇦 | 0️⃣1️⃣",
+      "type": "vmess"
+    },
+    {
+      "server": "172.67.204.84",
+      "server_port": 443,
+      "tls": {
+        "enabled": true,
+        "server_name": "tjsre.ttvoffi.info",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "safari"
+        }
+      },
+      "transport": {
+        "path": "/paradise",
+        "type": "ws",
+        "max_early_data": 4096,
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      },
+      "uuid": "1d86846c-5a27-43c8-8981-57bb75c82195",
+      "tag": "🔒 VL-WS-TLS 🇺🇸 US-172.67.204.84:443 📡 PING-002.51-MS",
+      "type": "vless"
+    },
+    {
+      "server": "91.217.119.47",
+      "server_port": 35795,
+      "tls": {
+        "enabled": true
+      },
+      "transport": {
+        "type": "grpc"
+      },
+      "uuid": "39226058-a5b6-4dc7-ac43-797118cef4f6",
+      "tag": "🇹🇷TR | VLESS | MTN | 6",
+      "type": "vless"
+    },
+    {
+      "server": "104.21.78.150",
+      "server_port": 443,
+      "tls": {
+        "enabled": true,
+        "server_name": "retf4.livingspringonline.com",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "transport": {
+        "type": "grpc"
+      },
+      "uuid": "416339cf-dadd-4831-987b-80f8434d2ebe",
+      "tag": "🇨🇦CA | VLESS | MTN | 132",
+      "type": "vless"
+    },
+    {
+      "server": "104.21.37.251",
+      "server_port": 2053,
+      "tls": {
+        "enabled": true,
+        "server_name": "free.baseri1.xyz",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "transport": {
+        "type": "grpc"
+      },
+      "uuid": "0b1ddfc4-d343-4b65-fad9-3175d6b8c8ae",
+      "tag": "🇨🇦CA | VLESS | MTN | 154",
+      "type": "vless"
+    },
+    {
+      "server": "172.67.213.13",
+      "server_port": 443,
+      "tls": {
+        "enabled": true,
+        "server_name": "retf4.livingspringonline.com",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "ios"
+        }
+      },
+      "transport": {
+        "type": "grpc"
+      },
+      "uuid": "416339cf-dadd-4831-987b-80f8434d2ebe",
+      "tag": "🇨🇦CA | VLESS | MTN | 166",
+      "type": "vless"
+    },
+    {
+      "server": "172.67.216.173",
+      "server_port": 2053,
+      "tls": {
+        "enabled": true,
+        "server_name": "free.baseri1.xyz",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "transport": {
+        "type": "grpc"
+      },
+      "uuid": "0b1ddfc4-d343-4b65-fad9-3175d6b8c8ae",
+      "tag": "🇨🇦CA | VLESS | MTN | 220",
+      "type": "vless"
+    },
+    {
+      "server": "190.93.246.137",
+      "server_port": 2095,
+      "tls": {
+        "enabled": true,
+        "server_name": "我的父亲.gamermecfz.ir"
+      },
+      "transport": {
+        "path": "@ExpressVPN_420 \"@ExpressVPN_420",
+        "type": "ws",
+        "max_early_data": 4096,
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      },
+      "uuid": "b39531d2-40c0-4bae-aaee-0cc2ff2e46c0",
+      "tag": "🇨🇷CR | VLESS | MTN | 268",
+      "type": "vless"
+    },
+    {
+      "server": "104.16.159.9",
+      "server_port": 443,
+      "tls": {
+        "enabled": true,
+        "server_name": "bangladeshipatri.com",
+        "insecure": true
+      },
+      "transport": {
+        "path": "6b777a91",
+        "type": "ws",
+        "max_early_data": 4096,
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      },
+      "password": "ce8b8b30ebba45f2a38dd608b85e8628",
+      "tag": "🇨🇦CA | TROJAN | MTN | 244",
+      "type": "trojan"
+    }
+  ],
+  "route": {
+    "rules": [
+      {
+        "protocol": "dns",
+        "outbound": "dns-out"
+      },
+      {
+        "geosite": [
+          "category-ads-all"
+        ],
+        "outbound": "block"
+      },
+      {
+        "geosite": [
+          "cn"
+        ],
+        "outbound": "direct"
+      },
+      {
+        "geoip": [
+          "cn"
+        ],
+        "outbound": "direct"
+      },
+      {
+        "geoip": [
+          "private"
+        ],
+        "outbound": "direct"
+      }
+    ],
+    "auto_detect_interface": true
+  },
+  "ntp": {
+    "enabled": true,
+    "server": "time.apple.com",
+    "server_port": 123,
+    "interval": "30m",
+    "detour": "direct"
+  }
+}
