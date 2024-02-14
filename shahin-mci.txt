@@ -1,6 +1,6 @@
 //profile-title: base64:Q09OVkVSVEVEIEJZIFRWQw==
 //profile-update-interval: 2
-//subscription-userinfo: upload=0; download=0; total=107374182400000; expire=3650000000
+//subscription-userinfo: upload=0; download=0; total=107374182400; expire=365000000000
 //support-url: https://t.me/v2raycollector
 //profile-web-page-url: https://github.com/yebekhe/TelegramV2rayCollector
 
