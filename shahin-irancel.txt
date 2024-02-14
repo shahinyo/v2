@@ -54,68 +54,42 @@
       "type": "selector",
       "outbounds": [
         "auto",
-        "🇳🇱NL | ss | @V2rayCollectorDonate | 9",
-        "🇺🇸US | vless | @polproxy | 1",
-        "🇬🇧GB | ss | @proxy_mtm | 19",
-        "🔒 SS-TCP-NA 🇳🇱 NL-172.233.51.96:8080 📡 PING-127.12-MS",
-        "🔒 SS-TCP-NA 🇳🇱 NL-172.233.57.5:8080 📡 PING-131.95-MS",
-        "🔒 SS-TCP-NA 🇰🇷 KR-218.237.185.230:54345 📡 PING-135.77-MS",
-        "🔒 TR-WS-TLS 🏴‍☠️ NA-104.16.159.9:443 📡 PING-016.06-MS",
-        "🔒 TR-WS-TLS 🏴‍☠️ NA-198.41.220.83:443 📡 PING-009.79-MS",
-        "Iran500+ID(@Outline_Vpn)",
-        "%F0%9F%87%A8%F0%9F%87%A6%20Canada%20Vmess%20@V2rayStore (7)",
-        "%F0%9F%87%A8%F0%9F%87%A6%20Canada%20Vmess%20@V2rayStore (23)",
-        "🔒 VL-GRPC-TLS 🇺🇸 US-172.67.207.94:443 📡 PING-008.47-MS",
-        "🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.61.74:443 📡 PING-008.45-MS",
-        "🔒 VM-WS-NA 🇺🇸 US-192.151.255.18:41698 📡 PING-163.05-MS",
-        "🇳🇱 The Netherlands",
-        "🇳🇱 The Netherlands 9",
-        "🇺🇲 United States 160",
-        "🇺🇲 United States 282",
-        "🇺🇲 United States 338",
-        "رایگان | VMESS | @DeamNet_Proxy | CA🇨🇦 | 0️⃣1️⃣",
-        "🔒 VL-WS-TLS 🇺🇸 US-172.67.204.84:443 📡 PING-002.51-MS",
-        "🇹🇷TR | VLESS | MTN | 6",
-        "🇨🇦CA | VLESS | MTN | 132",
-        "🇨🇦CA | VLESS | MTN | 154",
-        "🇨🇦CA | VLESS | MTN | 166",
-        "🇨🇦CA | VLESS | MTN | 220",
-        "🇨🇷CR | VLESS | MTN | 268",
-        "🇨🇦CA | TROJAN | MTN | 244"
+        "🇨🇦CA | VMESS | MTN | 22",
+        "🇨🇦CA | VLESS | MTN | 208",
+        "🇨🇦CA | VLESS | MTN | 266",
+        "🇨🇦CA | VLESS | MTN | 162",
+        "🇹🇷TR | VLESS | MTN | 2",
+        "🇨🇷CR | VLESS | MTN | 20",
+        "🇨🇦CA | VLESS | MTN | 56",
+        "🇨🇦CA | VLESS | MTN | 74",
+        "🇬🇧GB | VLESS | MTN | 90",
+        "🇨🇦CA | VLESS | MTN | 156",
+        "SHERVIN🎛️Turbo ipv6",
+        "🇩🇪 (3)",
+        "🇳🇱NL | TROJAN | MTN | 58",
+        "🇬🇧GB | TROJAN | MTN | 64",
+        "🇬🇧GB | TROJAN | MTN | 82"
       ]
     },
     {
       "tag": "auto",
       "type": "urltest",
       "outbounds": [
-        "🇳🇱NL | ss | @V2rayCollectorDonate | 9",
-        "🇺🇸US | vless | @polproxy | 1",
-        "🇬🇧GB | ss | @proxy_mtm | 19",
-        "🔒 SS-TCP-NA 🇳🇱 NL-172.233.51.96:8080 📡 PING-127.12-MS",
-        "🔒 SS-TCP-NA 🇳🇱 NL-172.233.57.5:8080 📡 PING-131.95-MS",
-        "🔒 SS-TCP-NA 🇰🇷 KR-218.237.185.230:54345 📡 PING-135.77-MS",
-        "🔒 TR-WS-TLS 🏴‍☠️ NA-104.16.159.9:443 📡 PING-016.06-MS",
-        "🔒 TR-WS-TLS 🏴‍☠️ NA-198.41.220.83:443 📡 PING-009.79-MS",
-        "Iran500+ID(@Outline_Vpn)",
-        "%F0%9F%87%A8%F0%9F%87%A6%20Canada%20Vmess%20@V2rayStore (7)",
-        "%F0%9F%87%A8%F0%9F%87%A6%20Canada%20Vmess%20@V2rayStore (23)",
-        "🔒 VL-GRPC-TLS 🇺🇸 US-172.67.207.94:443 📡 PING-008.47-MS",
-        "🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.61.74:443 📡 PING-008.45-MS",
-        "🔒 VM-WS-NA 🇺🇸 US-192.151.255.18:41698 📡 PING-163.05-MS",
-        "🇳🇱 The Netherlands",
-        "🇳🇱 The Netherlands 9",
-        "🇺🇲 United States 160",
-        "🇺🇲 United States 282",
-        "🇺🇲 United States 338",
-        "رایگان | VMESS | @DeamNet_Proxy | CA🇨🇦 | 0️⃣1️⃣",
-        "🔒 VL-WS-TLS 🇺🇸 US-172.67.204.84:443 📡 PING-002.51-MS",
-        "🇹🇷TR | VLESS | MTN | 6",
-        "🇨🇦CA | VLESS | MTN | 132",
-        "🇨🇦CA | VLESS | MTN | 154",
-        "🇨🇦CA | VLESS | MTN | 166",
-        "🇨🇦CA | VLESS | MTN | 220",
-        "🇨🇷CR | VLESS | MTN | 268",
-        "🇨🇦CA | TROJAN | MTN | 244"
+        "🇨🇦CA | VMESS | MTN | 22",
+        "🇨🇦CA | VLESS | MTN | 208",
+        "🇨🇦CA | VLESS | MTN | 266",
+        "🇨🇦CA | VLESS | MTN | 162",
+        "🇹🇷TR | VLESS | MTN | 2",
+        "🇨🇷CR | VLESS | MTN | 20",
+        "🇨🇦CA | VLESS | MTN | 56",
+        "🇨🇦CA | VLESS | MTN | 74",
+        "🇬🇧GB | VLESS | MTN | 90",
+        "🇨🇦CA | VLESS | MTN | 156",
+        "SHERVIN🎛️Turbo ipv6",
+        "🇩🇪 (3)",
+        "🇳🇱NL | TROJAN | MTN | 58",
+        "🇬🇧GB | TROJAN | MTN | 64",
+        "🇬🇧GB | TROJAN | MTN | 82"
       ],
       "url": "https://www.gstatic.com/generate_204",
       "interval": "1m",
@@ -134,148 +108,27 @@
       "type": "dns"
     },
     {
-      "server": "shadoct.kingarvan.eu.org",
-      "server_port": 8080,
-      "password": "XlUFgoOqDlVqlZFD3Js0YA",
-      "method": "chacha20-ietf-poly1305",
-      "tag": "🇳🇱NL | ss | @V2rayCollectorDonate | 9",
-      "type": "shadowsocks"
-    },
-    {
-      "server": "check-host.net",
-      "server_port": 2095,
-      "tls": {
-        "enabled": true,
-        "server_name": "moein.savarkaraan.ir"
-      },
-      "transport": {
-        "path": "/Telegram:@POLPROXY-Telegram:@POLPROXY-Telegram:@POLPROXY-Telegram:@POLPROXY",
-        "type": "ws",
-        "max_early_data": 4096,
-        "early_data_header_name": "Sec-WebSocket-Protocol"
-      },
-      "uuid": "--Polproxy--Polproxy--",
-      "tag": "🇺🇸US | vless | @polproxy | 1",
-      "type": "vless"
-    },
-    {
-      "server": "series-a2-me.samanehha.co",
-      "server_port": 443,
-      "password": "Bog0ELmMM9DSxDdQ",
-      "method": "chacha20-ietf-poly1305",
-      "tag": "🇬🇧GB | ss | @proxy_mtm | 19",
-      "type": "shadowsocks"
-    },
-    {
-      "server": "172.233.51.96",
-      "server_port": 8080,
-      "password": "XlUFgoOqDlVqlZFD3Js0YA",
-      "method": "chacha20-ietf-poly1305",
-      "tag": "🔒 SS-TCP-NA 🇳🇱 NL-172.233.51.96:8080 📡 PING-127.12-MS",
-      "type": "shadowsocks"
-    },
-    {
-      "server": "172.233.57.5",
-      "server_port": 8080,
-      "password": "ezesBXesf3RKBCp1vqKuIx",
-      "method": "chacha20-ietf-poly1305",
-      "tag": "🔒 SS-TCP-NA 🇳🇱 NL-172.233.57.5:8080 📡 PING-131.95-MS",
-      "type": "shadowsocks"
-    },
-    {
-      "server": "218.237.185.230",
-      "server_port": 54345,
-      "password": "qwerREWQ@@",
-      "method": "aes-256-cfb",
-      "tag": "🔒 SS-TCP-NA 🇰🇷 KR-218.237.185.230:54345 📡 PING-135.77-MS",
-      "type": "shadowsocks"
-    },
-    {
-      "server": "104.16.159.9",
-      "server_port": 443,
-      "tls": {
-        "enabled": true,
-        "server_name": "bangladeshipatri.com",
-        "insecure": true
-      },
-      "transport": {
-        "path": "6b777a91",
-        "type": "ws",
-        "max_early_data": 4096,
-        "early_data_header_name": "Sec-WebSocket-Protocol"
-      },
-      "password": "ce8b8b30ebba45f2a38dd608b85e8628",
-      "tag": "🔒 TR-WS-TLS 🏴‍☠️ NA-104.16.159.9:443 📡 PING-016.06-MS",
-      "type": "trojan"
-    },
-    {
-      "server": "198.41.220.83",
-      "server_port": 443,
-      "tls": {
-        "enabled": true,
-        "server_name": "jobscareertoday.com",
-        "insecure": true
-      },
-      "transport": {
-        "path": "6b777a91",
-        "type": "ws",
-        "max_early_data": 4096,
-        "early_data_header_name": "Sec-WebSocket-Protocol"
-      },
-      "password": "e8105dfd24414268b6c7652c63731097",
-      "tag": "🔒 TR-WS-TLS 🏴‍☠️ NA-198.41.220.83:443 📡 PING-009.79-MS",
-      "type": "trojan"
-    },
-    {
-      "server": "series-a1.samanehha.co",
-      "server_port": 443,
-      "password": "W74XFALLLuw6m5IA",
-      "method": "chacha20-ietf-poly1305",
-      "tag": "Iran500+ID(@Outline_Vpn)",
-      "type": "shadowsocks"
-    },
-    {
-      "server": "janett.click",
-      "server_port": 443,
-      "tls": {
-        "enabled": true,
-        "server_name": "janett.click"
-      },
-      "transport": {
-        "path": "/linkvws",
-        "type": "ws",
-        "max_early_data": 2048,
-        "early_data_header_name": "Sec-WebSocket-Protocol"
-      },
-      "uuid": "03fcc618-b93d-6796-6aed-8a38c975d581",
-      "packet_encoding": "xudp",
-      "security": "auto",
-      "alter_id": 0,
-      "tag": "%F0%9F%87%A8%F0%9F%87%A6%20Canada%20Vmess%20@V2rayStore (7)",
-      "type": "vmess"
-    },
-    {
-      "server": "server33.beheshtbaneh.com",
-      "server_port": 8880,
+      "server": "172.66.44.158",
+      "server_port": 2052,
       "transport": {
         "path": "/",
         "type": "ws",
         "max_early_data": 2048,
         "early_data_header_name": "Sec-WebSocket-Protocol"
       },
-      "uuid": "0873fffc-414f-4140-a155-672129fd9a1d",
+      "uuid": "284d74d8-4775-4144-bd7b-e27f310c99e5",
       "packet_encoding": "xudp",
       "security": "auto",
       "alter_id": 0,
-      "tag": "%F0%9F%87%A8%F0%9F%87%A6%20Canada%20Vmess%20@V2rayStore (23)",
+      "tag": "🇨🇦CA | VMESS | MTN | 22",
       "type": "vmess"
     },
     {
-      "server": "172.67.207.94",
+      "server": "172.67.147.142",
       "server_port": 443,
       "tls": {
         "enabled": true,
-        "server_name": "retf4.livingspringonline.com",
+        "server_name": "rsfrndc.foriran.trade",
         "utls": {
           "enabled": true,
           "fingerprint": "chrome"
@@ -284,141 +137,47 @@
       "transport": {
         "type": "grpc"
       },
-      "uuid": "416339cf-dadd-4831-987b-80f8434d2ebe",
-      "tag": "🔒 VL-GRPC-TLS 🇺🇸 US-172.67.207.94:443 📡 PING-008.47-MS",
+      "uuid": "61817e64-10ca-47be-97e8-9d6ff6aa2a5d",
+      "tag": "🇨🇦CA | VLESS | MTN | 208",
       "type": "vless"
     },
     {
-      "server": "104.21.61.74",
+      "server": "104.24.176.7",
       "server_port": 443,
       "tls": {
         "enabled": true,
-        "server_name": "retf4.livingspringonline.com",
+        "server_name": "public.satoshi.mom",
         "utls": {
           "enabled": true,
           "fingerprint": "chrome"
         }
       },
       "transport": {
-        "type": "grpc"
-      },
-      "uuid": "416339cf-dadd-4831-987b-80f8434d2ebe",
-      "tag": "🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.61.74:443 📡 PING-008.45-MS",
-      "type": "vless"
-    },
-    {
-      "server": "192.151.255.18",
-      "server_port": 41698,
-      "transport": {
-        "path": "/",
-        "type": "ws",
-        "max_early_data": 2048,
-        "early_data_header_name": "Sec-WebSocket-Protocol"
-      },
-      "uuid": "b7174b19-bc8a-4c9d-ac15-341c0e43ccd0",
-      "packet_encoding": "xudp",
-      "security": "auto",
-      "alter_id": 0,
-      "tag": "🔒 VM-WS-NA 🇺🇸 US-192.151.255.18:41698 📡 PING-163.05-MS",
-      "type": "vmess"
-    },
-    {
-      "server": "beeconf.xyz",
-      "server_port": 8080,
-      "password": "ezesBXesf3RKBCp1vqKuIx",
-      "method": "chacha20-ietf-poly1305",
-      "tag": "🇳🇱 The Netherlands",
-      "type": "shadowsocks"
-    },
-    {
-      "server": "masting.xyz",
-      "server_port": 8080,
-      "password": "XlUFgoOqDlVqlZFD3Js0YA",
-      "method": "chacha20-ietf-poly1305",
-      "tag": "🇳🇱 The Netherlands 9",
-      "type": "shadowsocks"
-    },
-    {
-      "server": "passconf.xyz",
-      "server_port": 8080,
-      "password": "qGjmI8WQlF0tfhDbkLqGdN",
-      "method": "chacha20-ietf-poly1305",
-      "tag": "🇺🇲 United States 160",
-      "type": "shadowsocks"
-    },
-    {
-      "server": "172.67.184.11",
-      "server_port": 443,
-      "tls": {
-        "enabled": true,
-        "server_name": "janett.click"
-      },
-      "transport": {
-        "path": "/linkvws",
-        "type": "ws",
-        "max_early_data": 2048,
-        "early_data_header_name": "Sec-WebSocket-Protocol"
-      },
-      "uuid": "03fcc618-b93d-6796-6aed-8a38c975d581",
-      "packet_encoding": "xudp",
-      "security": "auto",
-      "alter_id": 0,
-      "tag": "🇺🇲 United States 282",
-      "type": "vmess"
-    },
-    {
-      "server": "104.17.61.2",
-      "server_port": 443,
-      "tls": {
-        "enabled": true,
-        "server_name": "jobscareerforstudent.com",
-        "insecure": true
-      },
-      "transport": {
-        "path": "6b777a91",
+        "path": "/?ed=2048",
         "type": "ws",
         "max_early_data": 4096,
         "early_data_header_name": "Sec-WebSocket-Protocol"
       },
-      "password": "dba20dcb635e430fa4d3bfc303a149d2",
-      "tag": "🇺🇲 United States 338",
-      "type": "trojan"
-    },
-    {
-      "server": "ap-northeast-anycast.lnaspiring.com",
-      "server_port": 80,
-      "transport": {
-        "path": "/geg/45?ed=2048",
-        "type": "ws",
-        "max_early_data": 2048,
-        "early_data_header_name": "Sec-WebSocket-Protocol"
-      },
-      "uuid": "c64fa146-e851-4dfa-8f90-59a8fee49bc3",
-      "packet_encoding": "xudp",
-      "security": "auto",
-      "alter_id": 0,
-      "tag": "رایگان | VMESS | @DeamNet_Proxy | CA🇨🇦 | 0️⃣1️⃣",
-      "type": "vmess"
+      "uuid": "6cc5b6b6-b3d2-4c60-8197-5defdc8d6aa1",
+      "tag": "🇨🇦CA | VLESS | MTN | 266",
+      "type": "vless"
     },
     {
       "server": "172.67.204.84",
       "server_port": 443,
       "tls": {
         "enabled": true,
-        "server_name": "tjsre.ttvoffi.info",
+        "server_name": "ty1.livingspringonline.com",
         "utls": {
           "enabled": true,
-          "fingerprint": "safari"
+          "fingerprint": "firefox"
         }
       },
       "transport": {
-        "path": "/paradise",
-        "type": "ws",
-        "max_early_data": 4096,
-        "early_data_header_name": "Sec-WebSocket-Protocol"
+        "type": "grpc"
       },
-      "uuid": "1d86846c-5a27-43c8-8981-57bb75c82195",
-      "tag": "🔒 VL-WS-TLS 🇺🇸 US-172.67.204.84:443 📡 PING-002.51-MS",
+      "uuid": "416339cf-dadd-4831-987b-80f8434d2ebe",
+      "tag": "🇨🇦CA | VLESS | MTN | 162",
       "type": "vless"
     },
     {
@@ -431,114 +190,170 @@
         "type": "grpc"
       },
       "uuid": "39226058-a5b6-4dc7-ac43-797118cef4f6",
-      "tag": "🇹🇷TR | VLESS | MTN | 6",
+      "tag": "🇹🇷TR | VLESS | MTN | 2",
       "type": "vless"
     },
     {
-      "server": "104.21.78.150",
+      "server": "190.93.247.155",
+      "server_port": 80,
+      "tls": {
+        "enabled": true,
+        "server_name": "all6.savagev2ray.site"
+      },
+      "transport": {
+        "path": "/?ed=2048",
+        "type": "ws",
+        "max_early_data": 4096,
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      },
+      "uuid": "86c20727-3781-40b9-9b4a-eb18d3fee652",
+      "tag": "🇨🇷CR | VLESS | MTN | 20",
+      "type": "vless"
+    },
+    {
+      "server": "104.18.203.232",
+      "server_port": 80,
+      "tls": {
+        "enabled": true,
+        "server_name": "ws1.gsmvx.com"
+      },
+      "transport": {
+        "path": "/gsmxserver",
+        "type": "ws",
+        "max_early_data": 4096,
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      },
+      "uuid": "85436460-1927-4a8b-ebcb-c713fb7b0a20",
+      "tag": "🇨🇦CA | VLESS | MTN | 56",
+      "type": "vless"
+    },
+    {
+      "server": "104.18.202.232",
+      "server_port": 80,
+      "tls": {
+        "enabled": true,
+        "server_name": "ws1.gsmvx.com"
+      },
+      "transport": {
+        "path": "/gsmxserver",
+        "type": "ws",
+        "max_early_data": 4096,
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      },
+      "uuid": "85436460-1927-4a8b-ebcb-c713fb7b0a20",
+      "tag": "🇨🇦CA | VLESS | MTN | 74",
+      "type": "vless"
+    },
+    {
+      "server": "78.141.198.20",
       "server_port": 443,
       "tls": {
         "enabled": true,
-        "server_name": "retf4.livingspringonline.com",
+        "server_name": "uk-s8.fatvpn.pro",
         "utls": {
           "enabled": true,
           "fingerprint": "chrome"
         }
       },
-      "transport": {
-        "type": "grpc"
-      },
-      "uuid": "416339cf-dadd-4831-987b-80f8434d2ebe",
-      "tag": "🇨🇦CA | VLESS | MTN | 132",
+      "uuid": "01ee3d05-fe72-4353-a802-82b8432f3b43",
+      "flow": "xtls-rprx-vision",
+      "tag": "🇬🇧GB | VLESS | MTN | 90",
       "type": "vless"
     },
     {
-      "server": "104.21.37.251",
-      "server_port": 2053,
-      "tls": {
-        "enabled": true,
-        "server_name": "free.baseri1.xyz",
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      },
-      "transport": {
-        "type": "grpc"
-      },
-      "uuid": "0b1ddfc4-d343-4b65-fad9-3175d6b8c8ae",
-      "tag": "🇨🇦CA | VLESS | MTN | 154",
-      "type": "vless"
-    },
-    {
-      "server": "172.67.213.13",
-      "server_port": 443,
-      "tls": {
-        "enabled": true,
-        "server_name": "retf4.livingspringonline.com",
-        "utls": {
-          "enabled": true,
-          "fingerprint": "ios"
-        }
-      },
-      "transport": {
-        "type": "grpc"
-      },
-      "uuid": "416339cf-dadd-4831-987b-80f8434d2ebe",
-      "tag": "🇨🇦CA | VLESS | MTN | 166",
-      "type": "vless"
-    },
-    {
-      "server": "172.67.216.173",
-      "server_port": 2053,
-      "tls": {
-        "enabled": true,
-        "server_name": "free.baseri1.xyz",
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      },
-      "transport": {
-        "type": "grpc"
-      },
-      "uuid": "0b1ddfc4-d343-4b65-fad9-3175d6b8c8ae",
-      "tag": "🇨🇦CA | VLESS | MTN | 220",
-      "type": "vless"
-    },
-    {
-      "server": "190.93.246.137",
+      "server": "104.24.177.7",
       "server_port": 2095,
       "tls": {
         "enabled": true,
-        "server_name": "我的父亲.gamermecfz.ir"
+        "server_name": "free.jd-vpn.shop"
       },
       "transport": {
-        "path": "@ExpressVPN_420 \"@ExpressVPN_420",
+        "path": "/?ed=2048,@jd_vpn",
         "type": "ws",
         "max_early_data": 4096,
         "early_data_header_name": "Sec-WebSocket-Protocol"
       },
-      "uuid": "b39531d2-40c0-4bae-aaee-0cc2ff2e46c0",
-      "tag": "🇨🇷CR | VLESS | MTN | 268",
+      "uuid": "56d4a869-69d8-499c-9569-6b79012805d6",
+      "tag": "🇨🇦CA | VLESS | MTN | 156",
       "type": "vless"
     },
     {
-      "server": "104.16.159.9",
+      "server": "[2a01",
+      "server_port": 4,
+      "tls": {
+        "enabled": true,
+        "server_name": "gsmarena.com",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        },
+        "reality": {
+          "enabled": true,
+          "public_key": "AVesZ9rUbwnESVl0YSPs98oWmZbXlhDVjR4ssJAw6yw",
+          "short_id": "32d7a82d"
+        }
+      },
+      "transport": {
+        "type": "grpc"
+      },
+      "uuid": "38f30c94-7bb8-4fcc-8574-17fb02677d7e",
+      "tag": "SHERVIN🎛️Turbo ipv6",
+      "type": "vless"
+    },
+    {
+      "server": "49.13.69.46",
+      "server_port": 56078,
+      "tls": {
+        "enabled": true,
+        "server_name": "canva.com",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        },
+        "reality": {
+          "enabled": true,
+          "public_key": "SUCJ94wKPUdfkBJw8VnANql6kevueb6EyA71C3AfKFs",
+          "short_id": "bf44fc2c"
+        }
+      },
+      "uuid": "dbff34ab-eb96-441d-9f07-30f0a7776037",
+      "tag": "🇩🇪 (3)",
+      "type": "vless"
+    },
+    {
+      "server": "78.141.221.194",
       "server_port": 443,
       "tls": {
         "enabled": true,
-        "server_name": "bangladeshipatri.com",
+        "server_name": "z-v2-002750.kailib.com",
         "insecure": true
       },
-      "transport": {
-        "path": "6b777a91",
-        "type": "ws",
-        "max_early_data": 4096,
-        "early_data_header_name": "Sec-WebSocket-Protocol"
+      "password": "wkmY1R4EcP",
+      "tag": "🇳🇱NL | TROJAN | MTN | 58",
+      "type": "trojan"
+    },
+    {
+      "server": "45.76.130.173",
+      "server_port": 443,
+      "tls": {
+        "enabled": true,
+        "server_name": "z-v2-003289.kailib.com",
+        "insecure": true
       },
-      "password": "ce8b8b30ebba45f2a38dd608b85e8628",
-      "tag": "🇨🇦CA | TROJAN | MTN | 244",
+      "password": "wkmY1R4EcP",
+      "tag": "🇬🇧GB | TROJAN | MTN | 64",
+      "type": "trojan"
+    },
+    {
+      "server": "64.176.190.221",
+      "server_port": 443,
+      "tls": {
+        "enabled": true,
+        "server_name": "z-v2-003323.kailib.com",
+        "insecure": true
+      },
+      "password": "wkmY1R4EcP",
+      "tag": "🇬🇧GB | TROJAN | MTN | 82",
       "type": "trojan"
     }
   ],
