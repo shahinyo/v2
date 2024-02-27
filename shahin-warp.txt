@@ -1,5 +1,5 @@
 //profile-title:🔥shahin-warp🔥
-//profile-update-interval: 1
+//profile-update-interval: 24
 //subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 //support-url: shahin-warp
 //profile-web-page-url: shahin-warp
