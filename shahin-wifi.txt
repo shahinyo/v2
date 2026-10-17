@@ -32,3 +32,4 @@ vless://5744e593-1cc8-48fa-b8ca-57cd494fe35b@172.64.150.43:2052?security=&type=w
 vless://57beeeb0-03fc-4fc9-94da-7604488a7134@13.214.192.52:34379?security=reality&sni=us1p1.xn--ghq880n3na965a.com&fp=chrome&pbk=KfOrtENkHAXDFlsCluw6fv62Q-WuJXCKI98XZihtemA&sid=e51285e3&type=tcp&flow=xtls-rprx-vision&encryption=none#%F0%9F%87%BA%F0%9F%87%B8%20%D0%A1%D0%A8%D0%90%20%E2%80%94%20Salt%20Lake%20City
 trojan://600421cf-11d7-429f-a65b-c30397f1bc03@113.20.12.98:443?security=tls&sni=ca.freeguard.org&allowInsecure=1&type=tcp#US%F0%9F%87%BA%F0%9F%87%B8
 trojan://600421cf-11d7-429f-a65b-c30397f1bc03@104.160.44.203:443?security=tls&sni=la14.freeguard.org&allowInsecure=1&type=tcp#US%F0%9F%87%BA%F0%9F%87%B8
+vmess://b2ba4a73-3123-479e-aa96-5973a9ecd0c0@yg1.ygkkk.dpdns.org:443?security=tls&sni=jmp1.907737.xyz&type=ws&host=jmp1.907737.xyz&path=/b2ba4a73-3123-479e-aa96-5973a9ecd0c0-vm&packetEncoding=xudp#120.%20%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong
